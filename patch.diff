@@ -1,0 +1,26 @@
+From 182bf251967bf0a280e809a91faf8b3c315e5620 Mon Sep 17 00:00:00 2001
+From: "CAPTURERX\\angela.zhou" <angela.zhou@capturerx.com>
+Date: Wed, 14 Feb 2018 19:29:22 -0600
+Subject: [PATCH] branch test
+
+---
+ test.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/test.txt b/test.txt
+index af27956..85e88ec 100644
+--- a/test.txt
++++ b/test.txt
+@@ -3,4 +3,6 @@ sdfsdfsddd
+ I am happy
+ 
+ // this line is not working for me
+-Another guy added this line
+\ No newline at end of file
++Another guy added this line
++
++//I am trying something here let know if you like it
+\ No newline at end of file
+-- 
+2.14.1.windows.1
+
